@@ -49,7 +49,28 @@ nav .nav-right-section .menu-item{
 
 /* Estilos para la foto */
 nav .nav-right-section img{
+    /* Imagen redondeada */
     border-radius: 50%;
     margin-left: 10px;
+
+}
+
+/* Estilos del main */
+
+main{
+    margin-top:150px;
+    text-align: center;
+}
+
+main .main-logo{
+
+    /* Centrar la foto */
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+/* Tamaño del logo */
+main .main-logo img{
+    width: 272px;
 
 }
